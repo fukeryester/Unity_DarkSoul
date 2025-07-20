@@ -1,0 +1,4 @@
+repository "DarkSoul@tj_wechat_os_qy09pyxvj7h7szc1nheeclits@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

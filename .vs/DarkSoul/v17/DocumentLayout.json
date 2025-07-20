@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity_Project\\DarkSoul\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9D6FFA-8A73-C66B-E7D6-5384C42265A8}|Assembly-CSharp.csproj|d:\\unity_project\\darksoul\\assets\\scripts\\keyboardinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9D6FFA-8A73-C66B-E7D6-5384C42265A8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\keyboardinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9D6FFA-8A73-C66B-E7D6-5384C42265A8}|Assembly-CSharp.csproj|D:\\Unity_Project\\DarkSoul\\assets\\scripts\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9D6FFA-8A73-C66B-E7D6-5384C42265A8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9D6FFA-8A73-C66B-E7D6-5384C42265A8}|Assembly-CSharp.csproj|D:\\Unity_Project\\DarkSoul\\assets\\scripts\\statemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9D6FFA-8A73-C66B-E7D6-5384C42265A8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9D6FFA-8A73-C66B-E7D6-5384C42265A8}|Assembly-CSharp.csproj|D:\\Unity_Project\\DarkSoul\\assets\\scripts\\actormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9D6FFA-8A73-C66B-E7D6-5384C42265A8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\actormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9D6FFA-8A73-C66B-E7D6-5384C42265A8}|Assembly-CSharp.csproj|D:\\Unity_Project\\DarkSoul\\assets\\scripts\\iactormanagerinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9D6FFA-8A73-C66B-E7D6-5384C42265A8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iactormanagerinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9D6FFA-8A73-C66B-E7D6-5384C42265A8}|Assembly-CSharp.csproj|D:\\Unity_Project\\DarkSoul\\assets\\scripts\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9D6FFA-8A73-C66B-E7D6-5384C42265A8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9D6FFA-8A73-C66B-E7D6-5384C42265A8}|Assembly-CSharp.csproj|D:\\Unity_Project\\DarkSoul\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9D6FFA-8A73-C66B-E7D6-5384C42265A8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9D6FFA-8A73-C66B-E7D6-5384C42265A8}|Assembly-CSharp.csproj|D:\\Unity_Project\\DarkSoul\\assets\\scripts\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9D6FFA-8A73-C66B-E7D6-5384C42265A8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KeyboardInput.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\DarkSoul\\Assets\\Scripts\\KeyboardInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KeyboardInput.cs",
+              "ToolTip": "D:\\Unity_Project\\DarkSoul\\Assets\\Scripts\\KeyboardInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KeyboardInput.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwD4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:03:15.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeaponManager.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\DarkSoul\\Assets\\Scripts\\WeaponManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponManager.cs",
+              "ToolTip": "D:\\Unity_Project\\DarkSoul\\Assets\\Scripts\\WeaponManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T05:10:02.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StateManager.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\DarkSoul\\Assets\\Scripts\\StateManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateManager.cs",
+              "ToolTip": "D:\\Unity_Project\\DarkSoul\\Assets\\Scripts\\StateManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvzUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:22:35.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActorManager.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\DarkSoul\\Assets\\Scripts\\ActorManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ActorManager.cs",
+              "ToolTip": "D:\\Unity_Project\\DarkSoul\\Assets\\Scripts\\ActorManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ActorManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:13:43.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IActorManagerInterface.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\DarkSoul\\Assets\\Scripts\\IActorManagerInterface.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IActorManagerInterface.cs",
+              "ToolTip": "D:\\Unity_Project\\DarkSoul\\Assets\\Scripts\\IActorManagerInterface.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IActorManagerInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:29:14.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BattleManager.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\DarkSoul\\Assets\\Scripts\\BattleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BattleManager.cs",
+              "ToolTip": "D:\\Unity_Project\\DarkSoul\\Assets\\Scripts\\BattleManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BattleManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:55:51.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ActorController.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\DarkSoul\\Assets\\Scripts\\ActorController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ActorController.cs",
+              "ToolTip": "D:\\Unity_Project\\DarkSoul\\Assets\\Scripts\\ActorController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ActorController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvyMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T06:33:57.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\DarkSoul\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "D:\\Unity_Project\\DarkSoul\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T04:00:40.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
